@@ -7,7 +7,7 @@ On analysing, it was observed that TV ads are having most impact on sales, which
 To increase the accuracy of the model, multiple linear regression analysis was done using all the fields in which it was observed that Newspaper is impacting the sales least.
 Finally getting the best model using multiple linear regression without newspaper. 
 
-Conclusion: TV and Radio together are impacting the sales most, finally multiple linear regression analysis id done using this combination and interpreting the stats.
+Conclusion: TV and Radio together are impacting the sales most, finally multiple linear regression analysis is done using this combination and interpreting all the variables in regression analysis and ANOVA
 
 
 
